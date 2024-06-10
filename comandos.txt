@@ -1,0 +1,6 @@
+EXECUTAR
+1 - tsc index.ts
+2 - node index.js
+
+FIFO - FIRST IN FIRST OUT (FILA)
+FILO - FIRST IN LAST OUT (PILHA)
